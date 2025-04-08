@@ -10,4 +10,7 @@ NOW CHECK WEATHER YOUR CONTAINNER GIVES CORRECT REPONSE OR NOT
 
     curl http://<your_public_ip>
   if data is retrived your container is running properly
-  
+
+IF YOU ARE USING LOCAL HOST MACHINE THEN JUST CHECK ON YOUR BROWSER
+    http://localhost
+
